@@ -1,0 +1,27 @@
+{
+  "name": "AWS_CDK_space-finder-backend",
+  "version": "1.0.0",
+  "description": "This repo is to practice building projects and deploying it using AWS CDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kartikeyapise/AWS_CDK_space-finder-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kartikeyapise/AWS_CDK_space-finder-backend/issues"
+  },
+  "homepage": "https://github.com/Kartikeyapise/AWS_CDK_space-finder-backend#readme",
+  "devDependencies": {
+    "aws-cdk": "^1.130.0",
+    "aws-cdk-lib": "^2.0.0-rc.27",
+    "constructs": "^3.3.161",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  }
+}
